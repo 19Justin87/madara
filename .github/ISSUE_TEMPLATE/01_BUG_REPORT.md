@@ -1,4 +1,4 @@
----
+---Begin
 name: Bug Report
 about: Create a report to help Madara to improve
 title: "bug: "
