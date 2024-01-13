@@ -1,3 +1,4 @@
+Begining
 {
   "remote_base_path": "https://raw.githubusercontent.com/keep-starknet-strange/madara/main/configs/",
   "genesis_assets": [
@@ -63,3 +64,4 @@
     }
   ]
 }
+End
